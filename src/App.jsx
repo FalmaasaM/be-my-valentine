@@ -33,7 +33,12 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" alt="Kiss" />
           <div className="text-4xl md:text-6xl font-bold my-4 text-pink-600 animate-bounce">
-            يما فديت🥹❤️
+            يما فديت🥹♥
+            <p className="text-lg text-gray-700 text-center mt-4 px-4 leading-relaxed">
+   رأفت يوسف جمالك.. الأقوال وراك فانتتنت بك الغواني <br/>
+   ومن الإله بلاد الجمال تجملاً.. حتى كأنك للجمال كباني
+</p>
+
           </div>
         </>
       ) : (
