@@ -16,15 +16,15 @@ export default function Page() {
       "No",
       "Are you sure?",
       "Really sure?",
-      "Think again!",
-      "Last chance!",
+      "Think about it!",
+      "Iyawo mi :(",
       "Surely not?",
-      "You might regret this!",
+      "I'll cook for you!",
       "Give it another thought!",
-      "Are you absolutely certain?",
+      "Wanna go shopping?",
       "This could be a mistake!",
       "Have a heart!",
-      "Don't be so cold!",
+      "Don't break my heart!",
       "Change of heart?",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
@@ -43,7 +43,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+            Let's goooo!!! My beautiful Valentine <span role="img" aria-label="heart"> ❤️ </span>
           </div>
         </>
       ) : (
@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            C ololufe mi, will you be my Valentine?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
@@ -89,10 +89,10 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/Xeven777/valentine"
+      href="https://www.youtube.com/watch?v=USO8FixiIfc&list=RDUSO8FixiIfc&start_radio=1"
       target="__blank"
     >
-      Made with{" "}
+      Made for Christianah
       <span role="img" aria-label="heart">
         ❤️
       </span>
